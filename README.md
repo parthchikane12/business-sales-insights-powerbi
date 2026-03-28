@@ -41,7 +41,8 @@ The report provides insights into sales metrics using clear and interactive visu
 
 ## 📷 Dashboard Preview
 
-(Add screenshots of your dashboard here)
+
+ ![WhatsApp Image 2026-03-28 at 11 48 16 AM](https://github.com/user-attachments/assets/17c14c26-2d7b-47ab-ae7d-901b7a70752f)
 
 ## 📈 Insights Provided
 
@@ -49,7 +50,7 @@ The report provides insights into sales metrics using clear and interactive visu
 * Key business metrics
 * Data-driven insights through interactive visuals
 
-* ![WhatsApp Image 2026-03-28 at 11 48 16 AM](https://github.com/user-attachments/assets/17c14c26-2d7b-47ab-ae7d-901b7a70752f)
+*
 
 
 ## 👨‍💻 Author
